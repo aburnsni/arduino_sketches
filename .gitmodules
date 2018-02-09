@@ -1,0 +1,9 @@
+[submodule "honeycomb_midi"]
+	path = honeycomb_midi
+	url = git@gitlab.com:ab-arduino/honeycomb_midi.git
+[submodule "pringle_drums"]
+	path = pringle_drums
+	url = git@gitlab.com:ab-arduino/pringle_drums.git
+[submodule "tippeny_guitar"]
+	path = tippeny_guitar
+	url = git@gitlab.com:ab-arduino/tippeny_guitar.git
