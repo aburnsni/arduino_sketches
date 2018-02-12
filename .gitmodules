@@ -16,3 +16,6 @@
 [submodule "powerpoint_controller"]
 	path = powerpoint_controller
 	url = git@gitlab.com:ab-arduino/powerpoint_controller.git
+[submodule "crossfade_christmas_lights"]
+	path = crossfade_christmas_lights
+	url = git@gitlab.com:ab-arduino/crossfade_christmas_lights.git
