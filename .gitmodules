@@ -7,3 +7,6 @@
 [submodule "tippeny_guitar"]
 	path = tippeny_guitar
 	url = git@gitlab.com:ab-arduino/tippeny_guitar.git
+[submodule "music_vu_meter"]
+	path = music_vu_meter
+	url = git@gitlab.com:ab-arduino/music_vu_meter.git
