@@ -10,3 +10,6 @@
 [submodule "music_vu_meter"]
 	path = music_vu_meter
 	url = git@gitlab.com:ab-arduino/music_vu_meter.git
+[submodule "button_box"]
+	path = button_box
+	url = git@gitlab.com:ab-arduino/button_box.git
