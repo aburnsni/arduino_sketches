@@ -13,3 +13,6 @@
 [submodule "button_box"]
 	path = button_box
 	url = git@gitlab.com:ab-arduino/button_box.git
+[submodule "powerpoint_controller"]
+	path = powerpoint_controller
+	url = git@gitlab.com:ab-arduino/powerpoint_controller.git
