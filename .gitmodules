@@ -19,3 +19,6 @@
 [submodule "crossfade_christmas_lights"]
 	path = crossfade_christmas_lights
 	url = git@gitlab.com:ab-arduino/crossfade_christmas_lights.git
+[submodule "hv_serial_prog"]
+	path = hv_serial_prog
+	url = git@gitlab.com:ab-arduino/hv_serial_prog.git
