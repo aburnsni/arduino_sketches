@@ -22,3 +22,6 @@
 [submodule "hv_serial_prog"]
 	path = hv_serial_prog
 	url = git@gitlab.com:ab-arduino/hv_serial_prog.git
+[submodule "arduino_dice"]
+	path = arduino_dice
+	url = git@gitlab.com:ab-arduino/arduino_dice.git
