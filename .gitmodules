@@ -31,3 +31,6 @@
 [submodule "esp8266_support_counter"]
 	path = esp8266_support_counter
 	url = git@gitlab.com:ab-arduino/esp8266_support_counter.git
+[submodule "bead_bowl_midi"]
+	path = bead_bowl_midi
+	url = git@gitlab.com:ab-arduino/bead_bowl_midi.git
