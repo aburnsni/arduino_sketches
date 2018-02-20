@@ -43,3 +43,6 @@
 [submodule "scrolling_led_matrix"]
 	path = scrolling_led_matrix
 	url = git@gitlab.com:ab-arduino/scrolling_led_matrix.git
+[submodule "esp8266_server"]
+	path = esp8266_server
+	url = git@gitlab.com:ab-arduino/esp8266_server.git
