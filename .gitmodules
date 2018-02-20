@@ -34,3 +34,6 @@
 [submodule "bead_bowl_midi"]
 	path = bead_bowl_midi
 	url = git@gitlab.com:ab-arduino/bead_bowl_midi.git
+[submodule "piezo_instrument"]
+	path = piezo_instrument
+	url = git@gitlab.com:ab-arduino/piezo_instrument.git
