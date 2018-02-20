@@ -49,3 +49,6 @@
 [submodule "proximity_trigger"]
 	path = proximity_trigger
 	url = git@gitlab.com:ab-arduino/proximity_trigger.git
+[submodule "joystick_theramin"]
+	path = joystick_theramin
+	url = git@gitlab.com:ab-arduino/joystick_theramin.git
