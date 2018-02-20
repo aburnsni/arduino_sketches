@@ -46,3 +46,6 @@
 [submodule "esp8266_server"]
 	path = esp8266_server
 	url = git@gitlab.com:ab-arduino/esp8266_server.git
+[submodule "proximity_trigger"]
+	path = proximity_trigger
+	url = git@gitlab.com:ab-arduino/proximity_trigger.git
