@@ -40,3 +40,6 @@
 [submodule "capacitance_touch_drums"]
 	path = capacitance_touch_drums
 	url = git@gitlab.com:ab-arduino/capacitance_touch_drums.git
+[submodule "scrolling_led_matrix"]
+	path = scrolling_led_matrix
+	url = git@gitlab.com:ab-arduino/scrolling_led_matrix.git
