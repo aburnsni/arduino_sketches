@@ -37,3 +37,6 @@
 [submodule "piezo_instrument"]
 	path = piezo_instrument
 	url = git@gitlab.com:ab-arduino/piezo_instrument.git
+[submodule "capacitance_touch_drums"]
+	path = capacitance_touch_drums
+	url = git@gitlab.com:ab-arduino/capacitance_touch_drums.git
