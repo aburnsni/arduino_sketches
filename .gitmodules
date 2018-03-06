@@ -52,3 +52,6 @@
 [submodule "joystick_theramin"]
 	path = joystick_theramin
 	url = git@gitlab.com:ab-arduino/joystick_theramin.git
+[submodule "d1_mqtt_dht22"]
+	path = d1_mqtt_dht22
+	url = git@gitlab.com:ab-arduino/d1_mqtt_dht22.git
