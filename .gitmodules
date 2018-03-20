@@ -55,6 +55,9 @@
 [submodule "d1_mqtt_dht22"]
 	path = d1_mqtt_dht22
 	url = git@gitlab.com:ab-arduino/d1_mqtt_dht22.git
+[submodule "touch_minecraft_keyboard"]
+	path = touch_minecraft_keyboard
+	url = git@gitlab.com:ab-arduino/touch_minecraft_keyboard.git
 [submodule "arcade_button_midi"]
 	path = arcade_button_midi
 	url = git@gitlab.com:ab-arduino/arcade_button_midi.git
