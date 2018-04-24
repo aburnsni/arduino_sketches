@@ -25,9 +25,6 @@
 [submodule "arduino_dice"]
 	path = arduino_dice
 	url = git@gitlab.com:ab-arduino/arduino_dice.git
-[submodule "esp8266_max7219_scroller"]
-	path = esp8266_max7219_scroller
-	url = git@gitlab.com:ab-arduino/esp8266_max7219_scroller.git
 [submodule "esp8266_support_counter"]
 	path = esp8266_support_counter
 	url = git@gitlab.com:ab-arduino/esp8266_support_counter.git
