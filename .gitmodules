@@ -64,3 +64,6 @@
 [submodule "larson_scanner"]
 	path = larson_scanner
 	url = git@gitlab.com:ab-arduino/larson_scanner.git
+[submodule "ttp223_touch_arch"]
+	path = ttp223_touch_arch
+	url = git@gitlab.com:ab-arduino/ttp223_touch_arch.git
