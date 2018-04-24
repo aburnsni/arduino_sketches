@@ -61,3 +61,6 @@
 [submodule "arcade_button_midi"]
 	path = arcade_button_midi
 	url = git@gitlab.com:ab-arduino/arcade_button_midi.git
+[submodule "larson_scanner"]
+	path = larson_scanner
+	url = git@gitlab.com:ab-arduino/larson_scanner.git
