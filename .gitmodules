@@ -64,3 +64,6 @@
 [submodule "ttp223_touch_arch"]
 	path = ttp223_touch_arch
 	url = git@gitlab.com:ab-arduino/ttp223_touch_arch.git
+[submodule "esp8266_max7219_scroller"]
+	path = esp8266_max7219_scroller
+	url = git@gitlab.com:ab-arduino/esp8266_max7219_scroller.git
