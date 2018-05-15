@@ -71,3 +71,6 @@
 	path = sfx_switch_debounce
 	url = git@gitlab.com:ab-arduino/sfx_switch_debounce.git
 	branch = master
+[submodule "programmable_midi_switch_box"]
+	path = programmable_midi_switch_box
+	url = git@gitlab.com:ab-arduino/programmable_midi_switch_box.git
