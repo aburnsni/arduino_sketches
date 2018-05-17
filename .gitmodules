@@ -3,7 +3,7 @@
 	url = git@github.com:aburnsni/honeycomb_midi.git
 [submodule "pringle_drums"]
 	path = pringle_drums
-	url = git@gitlab.com:ab-arduino/pringle_drums.git
+	url = git@github.com:aburnsni/pringle_drums.git
 [submodule "tippeny_guitar"]
 	path = tippeny_guitar
 	url = git@gitlab.com:ab-arduino/tippeny_guitar.git
@@ -15,7 +15,7 @@
 	url = git@github.com:aburnsni/button_box.git
 [submodule "powerpoint_controller"]
 	path = powerpoint_controller
-	url = git@gitlab.com:ab-arduino/powerpoint_controller.git
+	url = git@github.com:aburnsni/powerpoint_controller.git
 [submodule "crossfade_christmas_lights"]
 	path = crossfade_christmas_lights
 	url = git@github.com:aburnsni/crossfade_christmas_lights.git
@@ -33,7 +33,7 @@
 	url = git@github.com:aburnsni/bead_bowl_midi.git
 [submodule "piezo_instrument"]
 	path = piezo_instrument
-	url = git@gitlab.com:ab-arduino/piezo_instrument.git
+	url = git@github.com:aburnsni/piezo_instrument.git
 [submodule "capacitance_touch_drums"]
 	path = capacitance_touch_drums
 	url = git@github.com:aburnsni/capacitance_touch_drums.git
@@ -45,7 +45,7 @@
 	url = url = git@github.com:aburnsni/esp8266_server.git
 [submodule "proximity_trigger"]
 	path = proximity_trigger
-	url = git@gitlab.com:ab-arduino/proximity_trigger.git
+	url = git@github.com:aburnsni/proximity_trigger.git
 [submodule "joystick_theramin"]
 	path = joystick_theramin
 	url = git@github.com:aburnsni/joystick_theramin.git
@@ -73,4 +73,4 @@
 	branch = master
 [submodule "programmable_midi_switch_box"]
 	path = programmable_midi_switch_box
-	url = git@gitlab.com:ab-arduino/programmable_midi_switch_box.git
+	url = git@github.com:aburnsni/programmable_midi_switch_box.git
