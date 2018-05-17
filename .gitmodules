@@ -1,6 +1,6 @@
 [submodule "honeycomb_midi"]
 	path = honeycomb_midi
-	url = git@gitlab.com:ab-arduino/honeycomb_midi.git
+	url = git@github.com:aburnsni/honeycomb_midi.git
 [submodule "pringle_drums"]
 	path = pringle_drums
 	url = git@gitlab.com:ab-arduino/pringle_drums.git
@@ -21,13 +21,13 @@
 	url = git@github.com:aburnsni/crossfade_christmas_lights.git
 [submodule "hv_serial_prog"]
 	path = hv_serial_prog
-	url = git@gitlab.com:ab-arduino/hv_serial_prog.git
+	url = url = git@github.com:aburnsni/hv_serial_prog.git
 [submodule "arduino_dice"]
 	path = arduino_dice
 	url = git@github.com:aburnsni/arduino_dice.git
 [submodule "esp8266_support_counter"]
 	path = esp8266_support_counter
-	url = git@gitlab.com:ab-arduino/esp8266_support_counter.git
+	url = url = git@github.com:aburnsni/esp8266_support_counter.git
 [submodule "bead_bowl_midi"]
 	path = bead_bowl_midi
 	url = git@github.com:aburnsni/bead_bowl_midi.git
@@ -42,7 +42,7 @@
 	url = git@gitlab.com:ab-arduino/scrolling_led_matrix.git
 [submodule "esp8266_server"]
 	path = esp8266_server
-	url = git@gitlab.com:ab-arduino/esp8266_server.git
+	url = url = git@github.com:aburnsni/esp8266_server.git
 [submodule "proximity_trigger"]
 	path = proximity_trigger
 	url = git@gitlab.com:ab-arduino/proximity_trigger.git
@@ -51,7 +51,7 @@
 	url = git@gitlab.com:ab-arduino/joystick_theramin.git
 [submodule "d1_mqtt_dht22"]
 	path = d1_mqtt_dht22
-	url = git@gitlab.com:ab-arduino/d1_mqtt_dht22.git
+	url = url = git@github.com:aburnsni/d1_mqtt_dht22.git
 [submodule "touch_minecraft_keyboard"]
 	path = touch_minecraft_keyboard
 	url = git@gitlab.com:ab-arduino/touch_minecraft_keyboard.git
@@ -66,7 +66,7 @@
 	url = git@gitlab.com:ab-arduino/ttp223_touch_arch.git
 [submodule "esp8266_max7219_scroller"]
 	path = esp8266_max7219_scroller
-	url = git@gitlab.com:ab-arduino/esp8266_max7219_scroller.git
+	url = url = git@github.com:aburnsni/esp8266_max7219_scroller.git
 [submodule "sfx_switch_debounce"]
 	path = sfx_switch_debounce
 	url = git@gitlab.com:ab-arduino/sfx_switch_debounce.git
