@@ -12,31 +12,31 @@
 	url = git@gitlab.com:ab-arduino/music_vu_meter.git
 [submodule "button_box"]
 	path = button_box
-	url = git@gitlab.com:ab-arduino/button_box.git
+	url = git@github.com:aburnsni/button_box.git
 [submodule "powerpoint_controller"]
 	path = powerpoint_controller
 	url = git@gitlab.com:ab-arduino/powerpoint_controller.git
 [submodule "crossfade_christmas_lights"]
 	path = crossfade_christmas_lights
-	url = git@gitlab.com:ab-arduino/crossfade_christmas_lights.git
+	url = git@github.com:aburnsni/crossfade_christmas_lights.git
 [submodule "hv_serial_prog"]
 	path = hv_serial_prog
 	url = git@gitlab.com:ab-arduino/hv_serial_prog.git
 [submodule "arduino_dice"]
 	path = arduino_dice
-	url = git@gitlab.com:ab-arduino/arduino_dice.git
+	url = git@github.com:aburnsni/arduino_dice.git
 [submodule "esp8266_support_counter"]
 	path = esp8266_support_counter
 	url = git@gitlab.com:ab-arduino/esp8266_support_counter.git
 [submodule "bead_bowl_midi"]
 	path = bead_bowl_midi
-	url = git@gitlab.com:ab-arduino/bead_bowl_midi.git
+	url = git@github.com:aburnsni/bead_bowl_midi.git
 [submodule "piezo_instrument"]
 	path = piezo_instrument
 	url = git@gitlab.com:ab-arduino/piezo_instrument.git
 [submodule "capacitance_touch_drums"]
 	path = capacitance_touch_drums
-	url = git@gitlab.com:ab-arduino/capacitance_touch_drums.git
+	url = git@github.com:aburnsni/capacitance_touch_drums.git
 [submodule "scrolling_led_matrix"]
 	path = scrolling_led_matrix
 	url = git@gitlab.com:ab-arduino/scrolling_led_matrix.git
@@ -57,7 +57,7 @@
 	url = git@gitlab.com:ab-arduino/touch_minecraft_keyboard.git
 [submodule "arcade_button_midi"]
 	path = arcade_button_midi
-	url = git@gitlab.com:ab-arduino/arcade_button_midi.git
+	url = git@github.com:aburnsni/arcade_button_midi.git
 [submodule "larson_scanner"]
 	path = larson_scanner
 	url = git@gitlab.com:ab-arduino/larson_scanner.git
