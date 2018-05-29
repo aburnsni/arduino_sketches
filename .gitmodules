@@ -6,7 +6,7 @@
 	url = git@github.com:aburnsni/pringle_drums.git
 [submodule "tippeny_guitar"]
 	path = tippeny_guitar
-	url = git@gitlab.com:ab-arduino/tippeny_guitar.git
+	url = git@github.com:aburnsni/tippeny_guitar.git
 [submodule "music_vu_meter"]
 	path = music_vu_meter
 	url = git@github.com:aburnsni/music_vu_meter.git
@@ -39,7 +39,7 @@
 	url = git@github.com:aburnsni/capacitance_touch_drums.git
 [submodule "scrolling_led_matrix"]
 	path = scrolling_led_matrix
-	url = git@gitlab.com:ab-arduino/scrolling_led_matrix.git
+	url = git@github.com:aburnsni/scrolling_led_matrix.git
 [submodule "esp8266_server"]
 	path = esp8266_server
 	url = url = git@github.com:aburnsni/esp8266_server.git
@@ -54,7 +54,7 @@
 	url = url = git@github.com:aburnsni/d1_mqtt_dht22.git
 [submodule "touch_minecraft_keyboard"]
 	path = touch_minecraft_keyboard
-	url = git@gitlab.com:ab-arduino/touch_minecraft_keyboard.git
+	url = git@github.com:aburnsni/touch_minecraft_keyboard.git
 [submodule "arcade_button_midi"]
 	path = arcade_button_midi
 	url = git@github.com:aburnsni/arcade_button_midi.git
@@ -63,13 +63,13 @@
 	url = git@github.com:aburnsni/larson_scanner.git
 [submodule "ttp223_touch_arch"]
 	path = ttp223_touch_arch
-	url = git@gitlab.com:ab-arduino/ttp223_touch_arch.git
+	url = git@github.com:aburnsni/ttp223_touch_arch.git
 [submodule "esp8266_max7219_scroller"]
 	path = esp8266_max7219_scroller
 	url = url = git@github.com:aburnsni/esp8266_max7219_scroller.git
 [submodule "sfx_switch_debounce"]
 	path = sfx_switch_debounce
-	url = git@gitlab.com:ab-arduino/sfx_switch_debounce.git
+	url = git@github.com:aburnsni/sfx_switch_debounce.git
 	branch = master
 [submodule "programmable_midi_switch_box"]
 	path = programmable_midi_switch_box
