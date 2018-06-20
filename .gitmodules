@@ -4,9 +4,9 @@
 [submodule "pringle_drums"]
 	path = pringle_drums
 	url = git@github.com:aburnsni/pringle_drums.git
-[submodule "tippeny_guitar"]
-	path = tippeny_guitar
-	url = git@github.com:aburnsni/tippeny_guitar.git
+[submodule "tippenny_guitar"]
+	path = tippenny_guitar
+	url = git@github.com:aburnsni/tippenny_guitar.git
 [submodule "music_vu_meter"]
 	path = music_vu_meter
 	url = git@github.com:aburnsni/music_vu_meter.git
