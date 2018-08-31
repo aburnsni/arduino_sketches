@@ -74,3 +74,6 @@
 [submodule "programmable_midi_switch_box"]
 	path = programmable_midi_switch_box
 	url = git@github.com:aburnsni/programmable_midi_switch_box.git
+[submodule "midi_lights"]
+	path = midi_lights
+	url = git@github.com:aburnsni/midi_lights.git
