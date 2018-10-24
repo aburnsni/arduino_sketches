@@ -77,3 +77,6 @@
 [submodule "midi_lights"]
 	path = midi_lights
 	url = git@github.com:aburnsni/midi_lights.git
+[submodule "color_change_led"]
+	path = color_change_led
+	url = git@github.com:aburnsni/color_change_led.git
